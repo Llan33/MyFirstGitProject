@@ -83,4 +83,4 @@ system ("clear");
     system ("clear");
 
     cout << frase << endl << endl << "YOU WIN!!" << endl << endl;
-}
+return 0;}
